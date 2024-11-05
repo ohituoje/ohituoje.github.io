@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ohituoje.github.io/EFM/sitemap_index.txt
+Sitemap: https://ohituoje.github.io/EnT/sitemap_index.txt
+Sitemap: https://ohituoje.github.io/LEN/sitemap_index.txt
+Sitemap: https://ohituoje.github.io/Ptw/sitemap_index.txt
